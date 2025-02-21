@@ -207,6 +207,8 @@ body {
 
 .card h2 {
     font-size: 18px;
+    color: #004A87;
+    background-color: transparent;
     font-weight: bold;
     margin: 10px 0 5px;
 }
