@@ -280,3 +280,36 @@ nav ul li a {
 nav ul li a:hover {
     text-decoration: underline;
 }
+
+h2 {
+    color: #004A87;
+}
+
+.general-sum {
+    color: gray;
+}
+
+.date {
+    font-weight: bold;
+}
+
+.summary-section {
+    margin: auto;
+    max-width: 1000px;
+}
+
+.link-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.experience-section {
+    margin: auto;
+    max-width: 1000px;
+}
+
+.edu-section {
+    margin: auto;
+    max-width: 1000px;
+}
